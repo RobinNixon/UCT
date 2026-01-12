@@ -16,6 +16,8 @@ Through systematic analysis of 6,500+ computational systems across eight substra
 
 **Keywords:** Universal computation, Turing completeness, cellular automata, computational complexity, information theory, capability decomposition
 
+**Repository** Complete code, data and supporting materials available at https://github.com/RobinNixon/UCT
+
 ---
 
 ## 1. Introduction
