@@ -117,8 +117,7 @@ Complexity ≥ 5 bits is necessary but not sufficient. Additional structural con
 ```bibtex
 @article{five_bit_threshold_2026,
   title={The Five-Bit Threshold for Universal Computation},
-  author={[Author]},
-  journal={[Journal]},
+  author={Robin Nixon, AI Researcher & Author},
   year={2026},
   note={Preprint}
 }
