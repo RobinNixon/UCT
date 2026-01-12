@@ -18,7 +18,7 @@ Through systematic analysis of 6,500+ computational systems across eight substra
 
 **Repository** Complete code, data and supporting materials available at https://github.com/RobinNixon/UCT
 
-**Note** Note: Figures are included in the PDF version. See five_bit_threshold.pdf for the complete rendered paper.
+**Note** Figures are included in the PDF version. See five_bit_threshold.pdf for the complete rendered paper.
 
 ---
 
