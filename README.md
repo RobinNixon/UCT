@@ -25,49 +25,49 @@ We conjecture this bound reflects a deeper constraint: that universal computatio
 ```
 UCT/
 ├── paper/
-│   ├── five_bit_threshold.md      # Full paper (Markdown)
-│   ├── five_bit_threshold.tex     # Full paper (LaTeX)
-│   └── references.bib             # Bibliography
+│   ├── five_bit_threshold.md           # Full paper (Markdown)
+│   ├── five_bit_threshold.tex          # Full paper (LaTeX)
+│   └── references.bib                  # Bibliography
 ├── figures/
-│   ├── capability_decomposition.png
-│   ├── complexity_landscape.png
-│   ├── two_peaks.png
-│   ├── rule110_dynamics.png
-│   ├── rule110_vs_rule122.png
-│   ├── control_diagram.png
-│   ├── threshold_summary.png
-│   └── substrate_comparison.png
+│   ├── capability_decomposition.png    # Why 5 bits?
+│   ├── complexity_landscape.png        # Complexity landscape showing universal systems
+│   ├── two_peaks.png                   # Activity at 4 bits / computation at 5 bits
+│   ├── rule110_dynamics.png            # Complex, non-periodic behavior
+│   ├── rule110_vs_rule122.png          # Rule 110 vs Rule 122
+│   ├── control_diagram.png             # Control capability
+│   ├── threshold_summary.png           # Summary of the 5 bit threshold
+│   └── substrate_comparison.png        # Complexity comparison across substrates
 ├── supplementary/
-│   ├── proofs.md                  # Detailed proofs
-│   ├── exhaustive_enumeration.md  # TM(2,2) results
-│   └── structural_conditions.md   # Substrate-specific conditions
+│   ├── proofs.md                       # Detailed proofs
+│   ├── exhaustive_enumeration.md       # TM(2,2) results
+│   └── structural_conditions.md        # Substrate-specific conditions
 ├── theory/
-│   ├── INDEX.md                   # Theory file index
-│   ├── CAPABILITY_CALCULUS.md     # Formal framework
-│   ├── FOUR_BIT_IMPOSSIBILITY.md  # Formal impossibility proof
-│   ├── UCT_COMPLETE_PROOF.md      # Complete proof structure
-│   ├── UCT_FORMALIZATION.md       # Formal UCT statement
-│   ├── BEYOND_UCT.md              # 6+ bit optimality analysis
+│   ├── INDEX.md                        # Theory file index
+│   ├── CAPABILITY_CALCULUS.md          # Formal framework
+│   ├── FOUR_BIT_IMPOSSIBILITY.md       # Formal impossibility proof
+│   ├── UCT_COMPLETE_PROOF.md           # Complete proof structure
+│   ├── UCT_FORMALIZATION.md            # Formal UCT statement
+│   ├── BEYOND_UCT.md                   # 6+ bit optimality analysis
 │   └── SELF_ORGANIZATION_THRESHOLD.md  # SOT formalization
 ├── discussion/
-│   ├── INDEX.md                   # Discussion file index
-│   ├── PRACTICAL_APPLICATIONS.md  # Real-world applications
-│   ├── AI_EMERGENCE.md            # Neural network implications
-│   ├── FUTURE_WORK.md             # Open problems
-│   └── FAQ.md                     # Common questions
+│   ├── INDEX.md                        # Discussion file index
+│   ├── PRACTICAL_APPLICATIONS.md       # Real-world applications
+│   ├── AI_EMERGENCE.md                 # Neural network implications
+│   ├── FUTURE_WORK.md                  # Open problems
+│   └── FAQ.md                          # Common questions
 ├── code/
-│   ├── eca_analysis.py            # Elementary CA experiments
-│   ├── figure_generation.py       # Generate all figures
-│   ├── control_analysis.py        # Control capability metrics
-│   ├── rule110_analysis.py        # Rule 110 analysis
-│   ├── rule122_analysis.py        # Rule 122 analysis
-│   └── computational_metrics.py   # Shared metrics
+│   ├── eca_analysis.py                 # Elementary CA experiments
+│   ├── figure_generation.py            # Generate all figures
+│   ├── control_analysis.py             # Control capability metrics
+│   ├── rule110_analysis.py             # Rule 110 analysis
+│   ├── rule122_analysis.py             # Rule 122 analysis
+│   └── computational_metrics.py        # Shared metrics
 ├── data/
-│   ├── CHECKPOINT.json            # Research checkpoint
-│   └── PROGRESS.md                # Research progress log
+│   ├── CHECKPOINT.json                 # Research checkpoint
+│   └── PROGRESS.md                     # Research progress log
 ├── LICENSE
-├── five_bit_threshold.pdf         # PDF of the paper
-└── README.md
+├── five_bit_threshold.pdf              # PDF of the paper
+└── README.md                           # This file
 ```
 
 ## Quick Start
