@@ -66,7 +66,7 @@ UCT/
 │   ├── CHECKPOINT.json            # Research checkpoint
 │   └── PROGRESS.md                # Research progress log
 ├── LICENSE
-├── five_bit_threshold.pdf
+├── five_bit_threshold.pdf         # PDF of the paper
 └── README.md
 ```
 
