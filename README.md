@@ -87,8 +87,6 @@ python figure_generation.py
 cd paper
 pdflatex five_bit_threshold.tex
 bibtex five_bit_threshold
-pdflatex five_bit_threshold.tex
-pdflatex five_bit_threshold.tex
 ```
 
 ## Key Findings
